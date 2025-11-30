@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 int main() {
     int arr[100], n = 0, i, pos, val, found;
